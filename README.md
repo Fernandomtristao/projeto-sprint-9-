@@ -1,14 +1,5 @@
 # Projeto 9 — Projeto Final (Sprint 9)
 
-> **Autor:** Fernando de Melo Tristão  
-> **Turma:** 17ª  
-> **Sprint:** 9 (Projeto Final)  
-> **Data:** <!-- atualize aqui -->
-
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow) ![Versão](https://img.shields.io/badge/vers%C3%A3o-0.1.0-blue) ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
-
----
-
 ## 📌 Visão Geral
 Descreva em 3–5 linhas **o problema**, **para quem** e **o que este projeto entrega**.  
 Ex.: *Este projeto implementa uma aplicação/serviço para ___ que permite ___, focado em ___, visando reduzir/automatizar/medir ___.*
