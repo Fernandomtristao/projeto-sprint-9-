@@ -1,6 +1,6 @@
 # Projeto 9 — Projeto Final (Sprint 9)
 
-## 📌 Visão Geral
+## 📌 Contexto
 Descreva em 3–5 linhas **o problema**, **para quem** e **o que este projeto entrega**.  
 Ex.: *Este projeto implementa uma aplicação/serviço para ___ que permite ___, focado em ___, visando reduzir/automatizar/medir ___.*
 
